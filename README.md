@@ -31,6 +31,7 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
   <img align="center" alt="Gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"> 
   <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">   
+  <img align="right" alt="Gustavo" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/1269502_kOWkRUnE.png">
 </div>
   
   ##
