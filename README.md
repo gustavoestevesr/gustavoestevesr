@@ -1,11 +1,12 @@
 ### Hey there, my name's Gustavo Esteves 👋
 
 <img align="right" alt="Gustavo" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/1269502_kOWkRUnE.png">
+<div>
 - 🔭 I’m currently working at Tech4me
 - 🌱 I’m always developing my skills in technology
 - 😄 I’m collaborating to make computational scientists 
 - 💬 Fun fact: I build robots too 
-
+</div>
 
 ##
 
