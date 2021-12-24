@@ -7,10 +7,10 @@
 - 😄 I’m collaborating to make computational scientists 
 - 💬 Fun fact: I build robots too 
 
-##
+<br>
+<br>
 
-<br>
-<br>
+##
 
 <div align="center">
   <a href="https://github.com/gustavoestevesr">
