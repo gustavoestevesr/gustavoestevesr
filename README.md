@@ -4,6 +4,7 @@
 - 🌱 I’m always developing my skills in technology
 - 😄 I’m collaborating to make computational scientists 
 - 💬 Fun fact: I build robots too 
+<img align="right" alt="Gustavo" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/1269502_kOWkRUnE.png">
 
 ##
 
@@ -11,7 +12,6 @@
   <a href="https://github.com/gustavoestevesr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoestevesr&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoestevesr&layout=compact&theme=light"/>
-      <img align="right" alt="Gustavo" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/1269502_kOWkRUnE.png">
 </div>
   
 ##
