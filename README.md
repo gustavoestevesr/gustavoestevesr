@@ -1,26 +1,18 @@
 ### Hey there, my name's Gustavo Esteves 👋
 
-<img align="right" alt="Gustavo" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/1269502_kOWkRUnE.png">
+<hr>
 
-- 🔭 I’m currently working at Tech4me
-- 🌱 I’m always developing my skills in technology
-- 😄 I’m collaborating to make computational scientists 
+- 🔭 I’m a Full Stack Developer and Technology Teacher
+- 🌱 I’m collaborating to make computational scientists
 - 💬 Fun fact: I build robots too 
 
-<br>
-<br>
-
-##
-
-<br>
+<hr>
 
 <div align="center">
   <a href="https://github.com/gustavoestevesr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoestevesr&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoestevesr&layout=compact&theme=light"/>
 </div>
-  
-##
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,9 +28,7 @@
   <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">   
 </div>
   
-  ##
-  
-  <br>
+<hr>
  
 <div align="center"> 
   <a href="https://instagram.com/gustavoesteves.exe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -48,5 +38,3 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  
-  
